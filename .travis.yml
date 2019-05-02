@@ -37,7 +37,7 @@ matrix:
     dist: trusty
     python: 'pypy3'
 install:
-  - pip install -r -r test-requirements.txt
+  - pip install -r test-requirements.txt
   - pip install -e .
 script:
   - sh runtests.sh

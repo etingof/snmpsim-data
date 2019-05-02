@@ -6,8 +6,9 @@ SNMP simulation data
 [![Build status](https://travis-ci.org/etingof/snmpsim-data.svg?branch=master)](https://travis-ci.org/etingof/snmpsim-data)
 [![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/etingof/snmpsim-data/master/LICENSE.txt)
 
-The `snmpsim-data` package contains simulation data for [snmpsim](http://snmplabs.com/snmpsim)
-- free and open-source SNMP agent simulator. The package is distributed under 2-clause
+The `snmpsim-data` package contains simulation data for
+[snmpsim](http://snmplabs.com/snmpsim) - free and open-source SNMP agent simulator.
+The package is distributed under 2-clause
 [BSD license](http://snmplabs.com/snmpsim/license.html).
 
 Download

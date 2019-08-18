@@ -1,0 +1,15 @@
+
+{% if title %}
+= {{ title }} flavors
+{% else %}
+= SNMP snapshots
+{% endif %}
+
+SNMP snapshots in this collection include the following entities:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   */index
+
